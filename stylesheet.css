@@ -1,0 +1,172 @@
+body {
+	visibility: hidden;
+}
+header {
+	background: #d5e5e4;
+	padding: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+
+header h1 {
+	color: #444444;
+	font-size: 37px;
+	text-transform: uppercase;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	font-weight: 800;
+	text-align: center;
+}
+
+header h2 {
+	color: #333333;
+	font-size: 21px;
+	text-transform: uppercase;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	font-weight: bold;
+	text-align: center;
+	margin-top: 80px;
+}
+
+header p {
+	color: #333333;
+	font-size: 15px;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	font-weight: bold;
+	text-align: center;
+}
+
+.profile-pic {
+	float: left;
+	margin-right: 25px;
+}
+
+a {
+	color: #4c6879;
+}
+
+a:hover {
+	color: #990000;
+}
+
+.clear {
+	clear: both;
+}
+
+.top-section .contact {
+	text-align: left;
+	line-height: 12px;
+}
+
+main {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #ececec;
+	padding: 30px;
+}
+
+
+main h1 {
+	color: #333333;
+	font-size: 21px;
+	text-transform: uppercase;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	font-weight: bold;
+	text-align: left;
+	margin-top: 30px;
+}
+
+main h2 {
+	color: #333333;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	text-align: left;
+	margin-top: 30px;
+}
+
+main h3 {
+	color: #333333;
+	font-size: 15px;
+	font-family: 'Vollkorn', open-sans, sans-serif; 
+	text-align: left;
+	font-weight: bold;
+}
+
+main p {
+	color: #333333;
+	font-size: 15px;
+	font-family: 'Vollkorn', open-sans, sans-serif; 
+	text-align: left;
+}
+
+main li {
+	color: #333333;
+	font-size: 15px;
+	font-family: 'Vollkorn', open-sans, sans-serif; 
+}
+
+main ul {
+	padding-bottom: 20px;
+}
+
+footer {
+	background: #d5e5e4;
+	padding: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+
+footer p {
+	color: #333333;
+	font-size: 15px;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	font-weight: bold;
+	text-align: center;
+}
+
+footer a {
+	text-align: center;
+	display: block;
+	line-height: 0px;
+}
+
+footer p {
+	line-height: 10px;
+}
+
+#button-container {
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	display: block;
+}
+
+button {
+	background-color: #d5e5e4;
+	padding: 50px;
+	border-width: 1px;
+	border-color: #999999;
+	visibility: visible;
+	font-size: 16px;
+	font-family: 'Raleway', open-sans, sans-serif; 
+	display: block;
+	margin: 100px auto;
+}
+
+button:hover {
+	background-color: #cccccc;
+}
+
+.show {
+	visibility: visible;
+}
+
+.hide {
+	visibility: hidden;
+}
+
+
+
